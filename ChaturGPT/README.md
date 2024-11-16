@@ -54,6 +54,7 @@ python train.py
 
 ## Output
 ![Output](https://github.com/user-attachments/assets/8df960ab-9d7c-4bf8-b635-3e2df0d29081)
+* Check the output.txt file for more examples (en-it translation)
 
 *Note:* The output can be syntactically and semantically enhanced by running it for more epochs ~ 30.
 
