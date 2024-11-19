@@ -1,5 +1,5 @@
 
-## RAG-Nutrition
+## Nutri-RAG
 
 - This project features a Retrieval-Augmented Generation (RAG) model, based on the `google/gemma-8b-it` language model (**Hugging Face**).
 
